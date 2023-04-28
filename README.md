@@ -4,6 +4,6 @@
 
 ### `npm i eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-testing-library prettier @babel/eslint-parser --save-dev`
 
-## Avalie o Script `:)`
+## Avalie o Script :)
 
 ### `npm start`
